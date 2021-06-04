@@ -1,0 +1,10 @@
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\bin\Debug\Analyzer.exe.config
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\bin\Debug\Analyzer.exe
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\bin\Debug\Analyzer.pdb
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\obj\Debug\Lexical_Analyzer.csprojAssemblyReference.cache
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\obj\Debug\Analyzer.Form1.resources
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\obj\Debug\Lexical_Analyzer.csproj.GenerateResource.cache
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\obj\Debug\Lexical_Analyzer.csproj.CoreCompileInputs.cache
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\obj\Debug\Analyzer.exe
+E:\FCAI\Level 4\Term#2\Materials\Compilers\Project\Compiler\csharp-lexical-analyzer-master\Source\Analyzer\obj\Debug\Analyzer.pdb
